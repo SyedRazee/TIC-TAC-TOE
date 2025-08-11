@@ -32,9 +32,9 @@ Logical thinking for game mechanics
 Code organization and commenting
 
 🔗 My LinkedIn Post
-Click here to view my LinkedIn post about this project: 
+Click here to view my LinkedIn post about this project: https://www.linkedin.com/posts/syed-razee-ahmad-0020a030b_java-swing-internship-activity-7360595386790567936-okqB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE7bWgIB4fg9kXVZ-6-HkmWNp-ZZ3l27sNw
 
 🏷️ Credits
-Developed by [SYED RAZEE AHMAD] during internship at Pinnacle Labs.
+Developed by SYED RAZEE AHMAD during internship at Pinnacle Labs.
 
 
